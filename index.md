@@ -28,8 +28,7 @@ My github homepage is [here](https://github.com/kevinlee1989)
 2. FullStack
 3. FrontEnd
 
-## Section link
-[see my skill stack](#skills-stack)
+
 
 ## Relative links
 [README](/README.md)
@@ -38,3 +37,6 @@ My github homepage is [here](https://github.com/kevinlee1989)
 - [x] working on github
 - [ ] team working with my team
 - [ ] make functional website
+
+## Section link
+[see my styling text](#styling-text)
