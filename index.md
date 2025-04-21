@@ -5,7 +5,7 @@
 # Who is Kevin?
 
 ## Styling text
-** Kevin ** is the person who has a passion to become * software engineer *
+**Kevin** is the person who has a passion to become *software engineer*
 
 ## Quote text
 > I am UCSD computer science student
